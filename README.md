@@ -1,6 +1,6 @@
-# loan_archive
+# flutter_demo
 
-A new Loan Archive application.
+A new Flutter Demo application.
 
 ## Getting Started
 
